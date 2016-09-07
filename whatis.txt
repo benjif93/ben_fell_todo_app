@@ -1,0 +1,23 @@
+App is a simeple todo list following the instructions of discover meteor.
+
+Features i'd like:
+    - Can add to the list
+    - Priority
+    - Move the list around
+    - Add different users
+    
+Todo Properties
+# Must Have + Can Have
+    # id
+    # Title
+    # Complete
+    # Category
+    # Priority
+    - createdBy
+    - createdDate
+    - DueDate
+    
+# Checkbox
+    - So user ticks check
+    
+  
